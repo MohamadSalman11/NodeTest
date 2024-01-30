@@ -26,4 +26,4 @@ socket.on("connection", () => {
   console.log("user is connected");
 });
 
-setInterval(callServer, 100000);
+// setInterval(callServer, 100000);
